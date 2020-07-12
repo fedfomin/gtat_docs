@@ -1,6 +1,6 @@
 # gtat_docs
 **GTA:Tournament docs**
-current **translations** at GTAT.
+current **translations**.
 
 > *1. English*
 
