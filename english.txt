@@ -1,0 +1,26 @@
+Welcome to the official Documentation of GTA:Tournament.
+
+
+How to choose the color of your gang
+One of the most frequently asked questions we get is “How do I change the color of a gang?”.
+Our FAQ here will hopefully explain to you how it's done:
+
+1. First we are going to tell you a bit about how our gang system and how it all works:
+1.1. There is a total of 11 gang colours in the server. The gangs who have the most controlled territories will be able to choose any of the 11 colours every Thursday.
+1.3. Here is a list of all the zones you are able to capture: Zones
+1.4. Mini games also count as territories so make sure to enable from settings in /panel and enable all mini games except Frenzies.
+1.5. Kill someone in a territory and you and your gang will be given respect points.
+1.6. Three gangs control one territory. To get complete control, you need to do more respect than the rest of the gang.
+1.7. The gang that has the most respect will receive full controll over the territory and the territories will be in the colour of the gang who owns it.
+1.8. If the colour you wish to have is greyed out in the colour selection menu then you do not have enough respect points and will have to either choose an alternative or gain more points. If you have over 30+ respect in a territory, then this territory will give you an option to vote.
+1.9. Every Thursday the scores are calculated and gangs will have to fight for their desired colour. . *1st place: 3 votes. *2nd place: 2 votes. *3rd place: 1 vote.
+2. So how do you change the colour of a gang?
+2.1. In the /panel which is only accessible from the /lobby or /l for short you will find a tab called "manage gang". From here you will find an option called "Change vote colours". Select your desired colour as you see here below, The way the colour system works is simple: If a colour is taken then you will not be able to select it.
+
+
+2.2. So let's say you have 50 votes and you want the yellow colour. You will only be given it providing there is not another gang who 1. has more points than you and 2. hasn't selected the same colour as you.
+2.3. If your gang has the most votes then you will receive the colour without any restrictions.
+3. Tips
+3.1. The only real way to increase your chances of getting that new colour is to grind points either by capturing as many territories as you can or/and alternatively playing mini-games. It takes a a bit of commitment but it will be worth it in the end when you're rocking that flashy new colour!
+3.2. If your gang has a good asset then you can try capturing the more harder territories in which players play. Get in there and try and get to High Roller, Hitman and Godfather. In around about 15 minutes you should have accumulated around 1000 respect providing you stay in the territory. A few days of this should get you 3rd, 2nd or even 1st place in the territory. You can also play mini games with at least 3 other players from other gangs.
+3.3. If your gang however has a bad asset, then try to seize inactive territories with the help of a sniper. You can also play mini games by yourself.
