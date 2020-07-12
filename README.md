@@ -1,16 +1,10 @@
 # gtat_docs
 GTAT docs (translations)
 
-*This text will be italic*
-_This will also be italic_
+**GTA:Tournament docs**
+Current **translations** at GTAT.
 
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
-
-Current translations
-- English
-- Russian (Author: [DeSH]d3Nn)
-- Spanish (/)
-- Turkish (/)
+*1. English
+*2. Russian (Author: [DeSH]d3Nn)
+*3. Spanish (/)
+*4. Turkish (/)
