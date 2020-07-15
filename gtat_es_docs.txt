@@ -1,0 +1,25 @@
+Bievenido al documento oficial de GTA:Tournament.
+
+Cómo seleccionar el color de tu gang
+Una de las preguntas mas frecuentes que tenemos es "Cómo cambiamos el color de una gang?".
+El siguiente FAQ va a explicarte el cómo se hace:
+
+1. Primero, vamos a contarte un poco sobre nuestro sistema de Gang y como funciona:
+1.1. Hay un total de 11 colores para gang dentro del servidor. Los Gangs que tengan mayor control de zonas van a poder seleccionar cualquiera de los 11 colores cada jueves.
+1.3. Aquí hay una lista de todas las zonas que puedes capturar: Zonas
+1.4. Los minijuegos también cuentan como territorios asi que asegurate de habilitarlos desde configuraciones en /panel excepto para Frenesíes (Frenzies)
+1.5. Mata a alguien en un territorio y tú y tu gang van a recibir puntos de respeto (respect points)
+1.6. Tres gangs controlan un único territorio. Para tener el dominio absoluto de este, vas a necesitar hacer más respeto que el resto de gangs.
+1.7. El gang que tenga el mayor respeto (respect) va a recibir dominio abosluto sobre el territorio y adquirirá el color de la gang que lo domine.
+1.8. Si el color que deseas tener está atenuado en el menú de selección de color, entonces no tienes suficientes puntos de respeto (respect points) y tendrás que elegir uno alternativo o ganar más puntos. Si tienes sobre los 30 puntos de respeto en un territorio, entonces este territorio va a darte una opción para votar.
+1.9. Cada jueves los puntajes son calculados y los gangs van a tener que pelear por los colores deseados. . *En primer lugar: 3 votos. *En segundo lugar: 2 votos. *En tercer lugar: 1 voto.
+2. Así que, cómo es que cambias el color de una gang?
+2.1. En la opción /panel el cual es accesible desde el /lobby o /l en abreviación encontrarás una pestaña llamada "administración de gang" (manage gang). Aquí vas a encontrar una opción llamada "Cambiar los colores de votación" (change vote colours). Selecciona el color deseado aquí debajo, La forma en que el sistema de color funciona es simple: Si el color es tomado, entonces no vas a poder seleccionarlo.
+
+
+2.2. Digamos que tienes 50 votos y quieres el color amarillo. Se te dará siempre y cuando que no haya otra gang que 1. tenga más puntos que tú y 2. no tenga seleccionado el mismo color que tú.
+2.3. Si tu gang tiene la mayoria de los votos entonces vas a recibir el color sin restricciones.
+3. Tips
+3.1. La única forma de incrementar tus chances de obtener un color nuevo es ganando puntos capturando tantos territorios como puedas o/y alternativamente jugando mini juegos (mini-games). Aquello necesita un poco de compromiso, pero valdrá la pena cuando estés luciendo ese nuevo color llamativo!
+3.2. Sí tu gang tiene un buen activo, entonces puedes intentar caputar las zonas más dificiles en las que los jugadores juegan. Adrentate e intenta llegar a High Roller, Hitman y Godfather. En alrededor de 15 minutos, deberias haber acumulado alrededor de 1000 de respeto siempre que permanezcas en el mismo territorio. Unos pocos dias de esto deberian darte el Tercer, Segundo o incluso el Primer lugar en el territorio. También puedes jugar mini juegos con al menos 3 otros jugadores de otras gangs.
+3.3. Por otro lado, si tu gang tiene un mal activo, intenta apoderarte de territorios inactivos con la ayuda de un francotirador. También puedes jugar mini juegos por ti mismo.
