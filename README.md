@@ -4,8 +4,8 @@ current **translations**.
 
 > *1. English*
 
-> *2. Russian (Author: [DeSH]d3Nn)*
+> *2. Russian (Author: d3Nn)*
 
-> *3. Spanish (Missing)*
+> *3. Spanish (Author: rafa)*
 
 > *4. Turkish (Missing)*
