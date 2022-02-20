@@ -18,7 +18,7 @@ surprises, we totally respect everyone's privacy and the access to particular ar
 
 Registering an account at SA-MP with the following IP play.gtat.pro:7777 you automatically agree to our terms and services, some of the information is used to track cheaters, ban evaders, rule breakers and keep the AC working as expected providing you the best experience you can EVER find on a SA-MP server.
 
-### Translation Progress Table
+## Translation Progress Table
 
 The table below tracks which questions have been translated to which languages. If you see one
 missing `[ ]` (because it is new), or outdated `[-]` (because it was changed) in your language,
