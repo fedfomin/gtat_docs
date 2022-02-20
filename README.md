@@ -33,6 +33,6 @@ Thank you.
 
 | Language                                                  | Arabic | Croatian |
 | --------------------------------------------------------- | ------ | -------- |
-| **How gangs work**                                              | [x]    | [x]      |
+| **Gangs/Season/Payday Documentation**                                              | [x]    | [x]      |
 
 
