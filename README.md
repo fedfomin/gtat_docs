@@ -2,7 +2,7 @@
 
 ## About GTAT
 
-Play with over 6 thousands of gamers in leagues, tournaments and ladders.
+Play with overg 7.5 thousands of gamers in leagues, tournaments and ladders.
 
 ### Why GTAT?
 - `Better Anti-Cheat` 
