@@ -2,7 +2,7 @@
 
 ### About GTAT
 
-Play with over 7 thousands of gamers in leagues, tournaments and ladders.
+Play with over 7 thousands of gamers in leagues, tournaments and ladders in San Andreas Multiplayer
 
 ### Why GTAT?
 - `Better Anti-Cheat` 
