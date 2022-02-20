@@ -3,7 +3,7 @@
 ## Contributing
 
 This website [https://gtat.pro/](https://gtat.pro/) is built with PHP, with no special configuration or
-surprises on our players, we totally respect everyone's privacy and the access to particular areas are strict to Project Managements and me.
+surprises, we totally respect everyone's privacy and the access to particular areas are strict to Project Managements and me.
 
 Registering an account at SA-MP with the following IP play.gtat.pro:7777 you automatically agree to our terms and services, some of the information is used to track cheaters, ban evaders, rule breakers and keep the AC working as expected providing you the best experience you can EVER find on a SA-MP server.
 
