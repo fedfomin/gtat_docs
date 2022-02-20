@@ -31,7 +31,7 @@ Thank you.
 - `[x]` - translated.
 - `[-]` - outdated.
 
-| Language                                                  
+| Language                                                  | Arabic | Croatian |
 | --------------------------------------------------------- | ------ | -------- |
 | **English**                                              | [x]    | [x]      |
 
