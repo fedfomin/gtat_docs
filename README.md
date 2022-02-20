@@ -1,8 +1,8 @@
 # GTAT.PRO
 
-<a href="https://youtu.be/5xwHkLPgvtQ" title="Music Caster Video Demo">
+<a href="https://youtu.be/7qKIAJZCJYM" title="Music Caster Video Demo">
   <p align="center">
-    <img width="75%" src="https://img.youtube.com/vi/5xwHkLPgvtQ/maxresdefault.jpg" alt="Music Caster Video Demo Thumbnail"/>
+    <img width="75%" src="https://img.youtube.com/vi/7qKIAJZCJYM/maxresdefault.jpg" alt="Music Caster Video Demo Thumbnail"/>
   </p>
 </a>
 
