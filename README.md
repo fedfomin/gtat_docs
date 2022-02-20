@@ -4,7 +4,7 @@ current **translations**.
 
 > *1. English*
 
-> *2. Russian (Author: d3Nn)*
+> *2. Russian*
 
 > *3. Spanish (Author: rafa)*
 
