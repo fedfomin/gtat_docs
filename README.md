@@ -31,8 +31,8 @@ Thank you.
 - `[x]` - translated.
 - `[-]` - outdated.
 
-| Language                                                  | Arabic | Croatian |
+| Language                                                  | Russian | Spanish | Portuguese | Arabic | Turkish | Italian |
 | --------------------------------------------------------- | ------ | -------- |
-| **Gangs/Season/Payday Documentation**                                              | [x]    | [x]      |
+| **Documentation**                                              | [x]    | [x]      | [x]      | [x]      | [x]      | [x]      | 
 
 
