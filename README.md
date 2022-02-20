@@ -1,6 +1,6 @@
 # How Gangs work
 
-## About GTAT
+### About GTAT
 
 Play with over 7 thousands of gamers in leagues, tournaments and ladders.
 
