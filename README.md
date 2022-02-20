@@ -31,8 +31,8 @@ Thank you.
 - `[x]` - translated.
 - `[-]` - outdated.
 
-| Question                                                  | Arabic | Croatian |
+| Language                                                  
 | --------------------------------------------------------- | ------ | -------- |
-| **Homepage**                                              | [x]    | [x]      |
+| **English**                                              | [x]    | [x]      |
 
 
