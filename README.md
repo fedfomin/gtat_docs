@@ -33,6 +33,6 @@ Thank you.
 
 | Language                                                  | Russian | Spanish | Portuguese | Arabic | Turkish | Italian |
 | --------------------------------------------------------- | ------- | ------- |------- |------- |------- |------- |
-| **Documentation**                                         | [x]     | [x]      | [x]        | [x]      | [x]      | [x]      | 
+| **Documentation**                                         | [x]     | [x]      | [ ]        | [ ]      | [ ]      | [ ]      | 
 
 
