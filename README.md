@@ -1,5 +1,20 @@
 # How Gangs work
 
+### Translation Progress Table
+
+The table below tracks which questions have been translated to which languages. If you see one
+missing `[ ]` (because it is new), or outdated `[-]` (because it was changed) in your language,
+please submit a new pull request adding it, and update the table below in the pull request as well.
+Thank you.
+
+- `[ ]` - not translated.
+- `[x]` - translated.
+- `[-]` - outdated.
+
+| Language                                                  | Russian | Spanish | Portuguese | Arabic | Turkish | Italian |
+| --------------------------------------------------------- | ------- | ------- |------- |------- |------- |------- |
+| **Documentation**                                         | [x]     | [x]      | [ ]        | [ ]      | [ ]      | [ ]      | 
+
 ## Contributing
 
 This website [https://gtat.pro/](https://gtat.pro/) is built with PHP, with no special configuration or
@@ -19,20 +34,5 @@ Don't forget to give this documentation project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add Language'`)
 4. Push to the Branch (`git push origin translation/Language`)
 5. Open a Pull Request
-
-### Translation Progress Table
-
-The table below tracks which questions have been translated to which languages. If you see one
-missing `[ ]` (because it is new), or outdated `[-]` (because it was changed) in your language,
-please submit a new pull request adding it, and update the table below in the pull request as well.
-Thank you.
-
-- `[ ]` - not translated.
-- `[x]` - translated.
-- `[-]` - outdated.
-
-| Language                                                  | Russian | Spanish | Portuguese | Arabic | Turkish | Italian |
-| --------------------------------------------------------- | ------- | ------- |------- |------- |------- |------- |
-| **Documentation**                                         | [x]     | [x]      | [ ]        | [ ]      | [ ]      | [ ]      | 
 
 
