@@ -1,10 +1,4 @@
-# GTA:T pro
-
-<a href="https://youtu.be/7qKIAJZCJYM" title="Music Caster Video Demo">
-  <p align="center">
-    <img width="75%" src="https://img.youtube.com/vi/7qKIAJZCJYM/maxresdefault.jpg" alt="Music Caster Video Demo Thumbnail"/>
-  </p>
-</a>
+# Documentation: How a gang works ? How Payday work ? how do you obtain a color for your gang
 
 ## Contributing
 
