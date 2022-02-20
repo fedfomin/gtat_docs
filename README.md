@@ -15,13 +15,6 @@ Thank you.
 | --------------------------------------------------------- | ------- | ------- |------- |------- |------- |------- |
 | **Documentation**                                         | [x]     | [x]      | [ ]        | [ ]      | [ ]      | [ ]      | 
 
-## Contributing
-
-This website [https://gtat.pro/](https://gtat.pro/) is built with PHP, with no special configuration or
-surprises, we totally respect everyone's privacy and the access to particular areas are strict to Project Managements and me.
-
-Registering an account at SA-MP with the following IP play.gtat.pro:7777 you automatically agree to our terms and services, some of the information is used to track cheaters, ban evaders, rule breakers and keep the AC working as expected providing you the best experience you can EVER find on a SA-MP server.
-
 ## Translating
 
 Contributions are what make the open source community such an amazing place to create, help and inspire. Any contributions you make are **greatly appreciated**.
@@ -35,4 +28,10 @@ Don't forget to give this documentation project a star! Thanks again!
 4. Push to the Branch (`git push origin translation/Language`)
 5. Open a Pull Request
 
+## About GTAT
+
+This website [https://gtat.pro/](https://gtat.pro/) is built with PHP, with no special configuration or
+surprises, we totally respect everyone's privacy and the access to particular areas are strict to Project Managements and me.
+
+Registering an account at SA-MP with the following IP play.gtat.pro:7777 you automatically agree to our terms and services, some of the information is used to track cheaters, ban evaders, rule breakers and keep the AC working as expected providing you the best experience you can EVER find on a SA-MP server.
 
