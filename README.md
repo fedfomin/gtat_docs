@@ -45,8 +45,8 @@ Thank you.
 - `[x]` - translated.
 - `[-]` - outdated.
 
-| Question                                                  | Arabic | Croatian | Dutch | English | French | Georgian | German | Greek | Hungarian | Italian | Indonesian | Lithuanian | Norwegian | Portuguese | Romanian | Russian | Spanish | Polish | Japanese | TraditionalChinese | SimplifiedChinese |
+| Question                                                  | Dutch | English | French | Georgian | German | Greek | Hungarian | Italian | Indonesian | Lithuanian | Norwegian | Portuguese | Romanian | Russian | Spanish | Polish |
 | --------------------------------------------------------- | ------ | -------- | ----- | ------- | ------ | -------- | ------ | ----- | --------- | ------- | ---------- | ---------- | --------- | ---------- | -------- | ------- | ------- | ------ | -------- | ------------------ | ----------------- |
-| **Homepage**                                              | [x]    | [x]      | [x]   | [x]     | [x]    | [x]      | [x]    | [x]   | [x]       | [x]     | [x]        | [x]        | [x]       | [x]        | [x]      | [x]     | [x]     | [x]    | [x]      | [x]                | [x]               |
+| **Tutorial**                                              | [x]    | [x]      | [x]   | [x]     | [x]    | [x]      | [x]    | [x]   | [x]       | [x]     | [x]        | [x]        | [x]       | [x]        | [x]      | [x]     | [x]     | [x]    | [x]      | [x]                | [x]               |
 
 
