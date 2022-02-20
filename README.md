@@ -1,11 +1,5 @@
 # GTAT Pro - Documentations
 
-> *1. English*
-
-> *2. Russian*
-
-> *3. Spanish (Author: rafa)*
-
 ## Contributing
 
 This website [https://gtat.pro/](https://gtat.pro/) is built with PHP, with no special configuration or
