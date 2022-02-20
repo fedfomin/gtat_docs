@@ -15,9 +15,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give this documentation project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b translation/Language`)
+3. Commit your Changes (`git commit -m 'Add Language'`)
+4. Push to the Branch (`git push origin translation/Language`)
 5. Open a Pull Request
 
 ### Translation Progress Table
