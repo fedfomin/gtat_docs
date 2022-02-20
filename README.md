@@ -33,6 +33,6 @@ Thank you.
 
 | Language                                                  | Arabic | Croatian |
 | --------------------------------------------------------- | ------ | -------- |
-| **How gangs work / How to get a color / What is a Payday**                                              | [x]    | [x]      |
+| **How gangs work**                                              | [x]    | [x]      |
 
 
