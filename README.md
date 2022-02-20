@@ -1,4 +1,4 @@
-# GTA:Tournament Pro
+# GTA:T pro
 
 <a href="https://youtu.be/7qKIAJZCJYM" title="Music Caster Video Demo">
   <p align="center">
