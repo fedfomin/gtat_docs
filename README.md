@@ -31,8 +31,8 @@ Thank you.
 - `[x]` - translated.
 - `[-]` - outdated.
 
-| Question                                                  | Arabic | Croatian | Dutch | English | French | Georgian | German | Greek | Hungarian | Italian | Indonesian | Lithuanian | Norwegian | Portuguese | Romanian | Russian | Spanish | Polish | Japanese | TraditionalChinese | SimplifiedChinese |
-| --------------------------------------------------------- | ------ | -------- | ----- | ------- | ------ | -------- | ------ | ----- | --------- | ------- | ---------- | ---------- | --------- | ---------- | -------- | ------- | ------- | ------ | -------- | ------------------ | ----------------- |
-| **Homepage**                                              | [x]    | [x]      | [x]   | [x]     | [x]    | [x]      | [x]    | [x]   | [x]       | [x]     | [x]        | [x]        | [x]       | [x]        | [x]      | [x]     | [x]     | [x]    | [x]      | [x]                | [x]               |
+| Question                                                  | Arabic | Croatian |
+| --------------------------------------------------------- | ------ | -------- |
+| **Homepage**                                              | [x]    | [x]      |
 
 
