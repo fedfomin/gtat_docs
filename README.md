@@ -32,10 +32,13 @@ Don't forget to give this documentation project a star! Thanks again!
 
 Play with over 6 thousands of gamers in leagues, tournaments and ladders.
 
-#Why GTAT?
-Better Anti-Cheat, no Admin Abuse, constant Events and Game Support!
+### Why GTAT?
+- `Better Anti-Cheat` 
+- `no Admin Abuse` 
+- `constant Events` 
+- `Game Support`
 
-Play better games, Track your stats, do more than just play.... Advanced stats let you track your progress as you climb through the ranks.
+` Play better games` , ` Track your stats` , do more than just play.... ` Advanced stats`  let you track your progress as you climb through the ranks.
 
 This website [https://gtat.pro/](https://gtat.pro/) is built with PHP, with no special configuration or
 surprises, we totally respect everyone's privacy and the access to particular areas are strict to Project Managements and me.
