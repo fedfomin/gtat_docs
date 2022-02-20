@@ -1,4 +1,4 @@
-# Documentation: How a gang works ? How Payday work ? how do you obtain a color for your gang
+# How a gang works ? How Payday work ? how do you obtain a color for your gang
 
 ## Contributing
 
