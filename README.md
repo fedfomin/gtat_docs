@@ -1,4 +1,4 @@
-# How a gang works ? How do you obtain a color for your gang
+# How Gangs work
 
 ## Contributing
 
