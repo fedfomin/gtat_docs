@@ -47,6 +47,6 @@ Thank you.
 
 | Question                                                  | Dutch | English | French | Georgian | German | Greek | Hungarian | Italian | Indonesian | Lithuanian | Norwegian | Portuguese | Romanian | Russian | Spanish | Polish |
 | --------------------------------------------------------- | ------ | -------- | ----- | ------- | ------ | -------- | ------ | ----- | --------- | ------- | ---------- | ---------- | --------- | ---------- | -------- | ------- | ------- | ------ | -------- | ------------------ | ----------------- |
-| **Tutorial**                                              | [x]    | [x]      | [x]   | [x]     | [x]    | [x]      | [x]    | [x]   | [x]       | [x]     | [x]        | [x]        | [x]       | [x]        | [x]      | [x]     | [x]     | [x]    | [x]      | [x]                | [x]               |
+| **Tutorial**                                              | [x]    | [x]      | [x]   | [x]     | [x]    | [x]      | [x]    | [x]   | [x]       | [x]     | [x]        | [x]        | [x]       | [x]        | [x]      | [x]     |
 
 
