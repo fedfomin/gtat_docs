@@ -1,5 +1,5 @@
-# gtat_docs
-**GTA:Tournament docs**
+# GTAT Pro - Documentations
+
 current **translations**.
 
 > *1. English*
@@ -9,8 +9,6 @@ current **translations**.
 > *3. Spanish (Author: rafa)*
 
 > *4. Turkish (Missing)*
-
-# GTAT Pro - Documentations / Features / Translations
 
 The official documentation page for [https://gtat.pro/](https://gtat.pro/).
 
