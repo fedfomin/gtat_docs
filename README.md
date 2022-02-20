@@ -1,4 +1,4 @@
-# GTAT.PRO
+# GTA:Tournament Pro
 
 <a href="https://youtu.be/7qKIAJZCJYM" title="Music Caster Video Demo">
   <p align="center">
