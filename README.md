@@ -1,16 +1,10 @@
 # GTAT Pro - Documentations
 
-current **translations**.
-
 > *1. English*
 
 > *2. Russian*
 
 > *3. Spanish (Author: rafa)*
-
-> *4. Turkish (Missing)*
-
-The official documentation page for [https://gtat.pro/](https://gtat.pro/).
 
 ## Contributing
 
