@@ -26,7 +26,7 @@ Thank you.
 
 | Language                                                  | Russian | Spanish | Portuguese | Arabic | Turkish | Italian |
 | --------------------------------------------------------- | ------- | ------- |------- |------- |------- |------- |
-| **Documentation**                                         | [x]     | [x]      | [ ]        | [ ]      | [ ]      | [ ]      | 
+| **Documentation**                                         | [x]     | [x]      | [ ]        | [ ]      | [x]      | [ ]      | 
 
 ## Translating
 
