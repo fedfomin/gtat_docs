@@ -1,3 +1,16 @@
+### About GTAT
+
+Play with over 7 thousands of gamers in leagues, tournaments and ladders in San Andreas Multiplayer
+
+### Why GTAT?
+- `Better Anti-Cheat` 
+- `no Admin Abuse` 
+- `constant Events` 
+- `Game Support`
+- `Unknown admins`
+
+` Play better games` , ` Track your stats` , do more than just play.... ` Advanced stats`  let you track your progress as you climb through the ranks.
+
 # How Gangs work
 
 ## Translation Progress Table
@@ -28,18 +41,6 @@ Don't forget to give this documentation project a star! Thanks again!
 4. Push to the Branch (`git push origin translation/Language`)
 5. Open a Pull Request
 
-### About GTAT
-
-Play with over 7 thousands of gamers in leagues, tournaments and ladders in San Andreas Multiplayer
-
-### Why GTAT?
-- `Better Anti-Cheat` 
-- `no Admin Abuse` 
-- `constant Events` 
-- `Game Support`
-- `Unknown admins`
-
-` Play better games` , ` Track your stats` , do more than just play.... ` Advanced stats`  let you track your progress as you climb through the ranks.
 
 
 
